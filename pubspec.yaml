@@ -1,3 +1,10 @@
+#
+# THIS IS A FORK FOR MEDIA_STORE_PLUS PACKAGE TO ADD BUILD-IN KOTLIN SUPPORT
+# Fork from Ali Osman ŞAHİN
+# github.com/aliosmansahin
+#
+
+
 name: media_store_plus
 description: To use Android MediaStore API in Flutter, It supports both read & write operation in every android version through flutter.
 version: 0.1.3
